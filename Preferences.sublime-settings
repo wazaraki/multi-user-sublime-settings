@@ -1,14 +1,14 @@
 {
-	"color_scheme": "Packages/Base16 Color Schemes/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/base16-chalk.dark.tmTheme",
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
-	"font_size": 10,
+	"font_size": 13,
 	"ignored_packages":
 	[
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 2,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true
